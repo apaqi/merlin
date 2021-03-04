@@ -1,3 +1,5 @@
+https://blog.csdn.net/lujian1989/article/details/56008786
+
 [![Build Status](https://travis-ci.org/CSTR-Edinburgh/merlin.svg?branch=master)](https://travis-ci.org/CSTR-Edinburgh/merlin)
 
 ## Merlin: The Neural Network (NN) based Speech Synthesis System
